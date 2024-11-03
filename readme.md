@@ -8,5 +8,6 @@ El cambio de color nos permite darle un diseño mas estetico a nuestro Frame y n
 # USOS
 Puede ocuparse en cualquier proyecto para mejorar la estetica de este y sea mas atrativo para el usuario
 # Metodos
-![image](https://github.com/user-attachments/assets/d731adb3-64d9-455e-a7fe-812341d815e6)
+![image](https://github.com/user-attachments/assets/c80ff714-87d9-4a3c-9759-29c463816c74)
+
 
