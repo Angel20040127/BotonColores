@@ -54,10 +54,40 @@ Inicializa el botón con los colores de fondo y texto predeterminados, además d
 mouseClicked(MouseEvent e)
 Este método se llama cuando se hace clic en el botón. Llama a elegirYAplicarColor() para mostrar un diálogo de selección de color y aplicar el color seleccionado al botón.
 
+![image](https://github.com/user-attachments/assets/26383b14-056e-4ff2-8c06-078a86903783)
+
+elegirYAplicarColor()
+Muestra un diálogo de selección de color (JColorChooser) y aplica el color seleccionado como fondo del botón y su color complementario como el color del texto. También cambia los colores de los componentes contenidos en el contenedor raíz.
+
 ![image](https://github.com/user-attachments/assets/b08260a4-8f40-430a-9365-343e557336a0)
 
+calcularComplementario(Color color)
+Calcula y devuelve el color complementario del color proporcionado.
 
+![image](https://github.com/user-attachments/assets/9b45bc19-9bd7-455f-92e2-3228141c2e09)
 
+setCustomBackground(Color color)
+Establece el color de fondo del botón y ajusta el color del texto al color complementario del fondo.
 
+![image](https://github.com/user-attachments/assets/a8c5b7d4-af9e-4bf8-af29-2cf10bafb9a5)
 
+aplicarColorComplementario()
+Aplica el color complementario al texto del botón en función del color de fondo actual.
 
+![image](https://github.com/user-attachments/assets/aeece25b-8606-4c51-999a-813813445899)
+
+cambiarColorComponentes(Container container, Color backgroundColor, Color textColor)
+Recorre los componentes del contenedor proporcionado y cambia sus colores de fondo y texto al color de fondo y color de texto proporcionados.
+
+![image](https://github.com/user-attachments/assets/80b93d7a-2698-43ee-9d63-17f5aaafdc44)
+
+Métodos vacíos para MouseListener
+Estos métodos están presentes para cumplir con la interfaz MouseListener pero no tienen implementación:
+
+mousePressed(MouseEvent e)
+
+mouseReleased(MouseEvent e)
+
+mouseEntered(MouseEvent e)
+
+mouseExited(MouseEvent e)
