@@ -13,18 +13,31 @@ Puede ocuparse en cualquier proyecto para mejorar la estetica de este y sea mas 
 ![image](https://github.com/user-attachments/assets/2cf9c233-7762-4213-9fe6-f0c24410a994)
 
 import java.awt.Color;//Se ocupa para elegir el color para el fondo del panel
+
 import java.awt.Component;// Lo ocupamos para un método
+
 import java.awt.Container;// Se ocupa para contener componentes
+
 import java.awt.Dimension;// Se ocupará darle tamaño al JButton
+
 import java.awt.Font;//La ocupamos para darle diseño a las letras del botón personalizado
+
 import java.awt.event.MouseEvent;//Se utiliza para el evento generado por el mouseCliked
+
 import java.awt.event.MouseListener;//Lo ocuparemos para ocupar el método mousecliked
+
 import javax.swing.JButton;//La clase que vamos a ocupar para generar nuestro botón personalizado
+
 import javax.swing.JColorChooser;//Lo ocuparemos para crear el color complementario
+
 import javax.swing.JFrame;//Se ocupara en el método color componentes
+
 import javax.swing.JLabel;//Se ocupara en el método color componentes
+
 import javax.swing.JPanel;//Se ocupara en el método color componentes
+
 import javax.swing.JTextField;//Se ocupara en el método color componentes
+
 import javax.swing.SwingUtilities;
 
 #CONSTRUCTOR
