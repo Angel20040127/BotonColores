@@ -6,6 +6,7 @@
 ![image](https://github.com/user-attachments/assets/32744948-d32f-4b8c-9802-93da827394c5)
 # INTEGRANTES
 Sanchez Jimenez Miguel Leonardo
+
 Sebastian Ochoa José Angel
 # VIDEO
 https://drive.google.com/file/d/1lRsMCz2YtDU1tpF-5OTmk6pAKFCOxsjl/view?usp=sharing
