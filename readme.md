@@ -1,4 +1,10 @@
-# INSTALACION
+# COMPONENTE
+![image](https://github.com/user-attachments/assets/050485de-8ef6-43d3-b006-2aee83a542d8)
+
+![image](https://github.com/user-attachments/assets/b1a7507d-26ef-4ef4-a18a-28147c8f8729)
+
+![image](https://github.com/user-attachments/assets/32744948-d32f-4b8c-9802-93da827394c5)
+
 
 
 
