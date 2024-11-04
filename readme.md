@@ -4,9 +4,11 @@
 ![image](https://github.com/user-attachments/assets/b1a7507d-26ef-4ef4-a18a-28147c8f8729)
 
 ![image](https://github.com/user-attachments/assets/32744948-d32f-4b8c-9802-93da827394c5)
-
-
-
+# INTEGRANTES
+Sanchez Jimenez Miguel Leonardo
+Sebastian Ochoa José Angel
+# VIDEO
+https://drive.google.com/file/d/1lRsMCz2YtDU1tpF-5OTmk6pAKFCOxsjl/view?usp=sharing
 
 # DESCRIPCION
 Este boton personalizado nos permite cambiar el fondo de un JFrame, asi como el color de algunos componetes como lo son los botones, etiquetas y cuadro de texto.
